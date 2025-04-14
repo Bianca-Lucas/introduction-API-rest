@@ -1,0 +1,24 @@
+{
+  "name": "introduction-api-rest",
+  "version": "1.0.0",
+  "description": "Rest API code example",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bianca-Lucas/introduction-API-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bianca-Lucas/introduction-API-rest/issues"
+  },
+  "homepage": "https://github.com/Bianca-Lucas/introduction-API-rest#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
